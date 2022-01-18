@@ -10,5 +10,5 @@ var valor_total = PRECO - desconto;
 function soma(a, b) {
     return a + b;
 }
-// Envocando uma função.
+// Invocando uma função.
 soma(3, 5);
